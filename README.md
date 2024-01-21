@@ -1,4 +1,6 @@
-# reddit_CruzHacks2024
+# Sitegeist Reddit Data Collector
+
+[parent(Sitegeist)](https://github.com/masaishi/Sitegeist)
 
 ## Overview
 
